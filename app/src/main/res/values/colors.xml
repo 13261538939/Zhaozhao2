@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_titlebar">#e5005d</color>
+    <color name="white">#ffffff</color>
+    <color name="text_red">#e5005d</color>
+    <color name="grey">#D7D4D4</color>
+
+    <!-- qrscan -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="common">#47C1B6</color>
+    <!-- pulldown -->
+    <color name="pull_down_text_color">#a3a7ac</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

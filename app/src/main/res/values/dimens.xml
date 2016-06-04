@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- load more  view-->
+    <dimen name="progressbar_width">43.4dp</dimen>
+    <dimen name="progressbar_height">43.4dp</dimen>
+    <dimen name="sta_height">48dp</dimen>
+    <dimen name="loadmore_item_height">54dp</dimen>
+
+    <!--title bar view -->
+    <dimen name="height_titlebar">50dp</dimen>
+
+    <!-- 首页-->
+    <dimen name="bottom_iv_width_or_height">24dp</dimen>
+
+    <!--完善单位信息-->
+    <dimen name="tv_padding_top_or_bottom">8dp</dimen>
+
+    <!-- <dimen name="page_logo_offset">112dp</dimen> -->
+    <dimen name="page_info_portrait_margintop">0dp</dimen>
+    <dimen name="page_info_nick_height">209dp</dimen>
+
+    <!-- PullDownView -->
+    <dimen name="updatebar_height">62dp</dimen>
+</resources>

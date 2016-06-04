@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_address.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_address.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_ordinary_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_ordinary_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wutu.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/wutu.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/job_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/job_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress3.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/progress3.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_local_login_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_local_login_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_parttime.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_parttime.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_unselected_pressed_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_disabled.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_pre.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/back_pre.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_solid_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_down.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_down.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_solid_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_yuan.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_yuan.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_button_white_pre.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_button_white_pre.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zanwu.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/zanwu.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_cab_done_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_solid_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_search_white.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_search_white.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_trainee_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_trainee_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_avatar_round.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_avatar_round.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_local_login_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_local_login_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_solid_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_default_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_pre.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/edit_pre.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_button_white_nor.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_button_white_nor.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_friendgroup.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_friendgroup.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress1.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/progress1.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_default_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_pressed_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_save_companyinfo_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_save_companyinfo_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_add.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_add.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_job_type.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_job_type.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_practice.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_practice.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_msg.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_msg.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_confirmcode_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_confirmcode_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_select_company_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_select_company_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_project.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_project.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/message_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/message_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_trainee_tag.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_trainee_tag.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_cab_done_holo_dark.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_holo_dark.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_more.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_more.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_transparent_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_login_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_login_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/practice_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/practice_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_save_companyinfo_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_save_companyinfo_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_record.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_record.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ctl_z_arrow_down.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/ctl_z_arrow_down.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_company_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_company_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/newfriend_notic.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/newfriend_notic.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_personage_header.jpg",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_personage_header.jpg"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_search_api_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_back.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_back.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_fulltime.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_fulltime.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_selected_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/friend_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/friend_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_focused_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_company_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_company_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_notification.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_notification.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_account.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_account.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_avatar.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_avatar.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/me_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/me_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/middle_line.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/middle_line.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_search.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_edu_type.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_edu_type.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_app.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_app.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_dark.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_select_company_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_select_company_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ctl_divider_horizontal_timeline.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/ctl_divider_horizontal_timeline.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress2.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/progress2.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_location.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_location.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_nor.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/back_nor.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_setting.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_setting.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_login_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_login_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tanhao.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/tanhao.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_go.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_holo_light.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_bottom_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_user.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_user.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_nor.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/edit_nor.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_voice_search.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_transparent_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_rmb.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_rmb.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ctl_z_arrow_up.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/ctl_z_arrow_up.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_psd.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_psd.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_selected_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_trainee_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_trainee_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_register_ordinary_pressed.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_register_ordinary_pressed.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_confirmcode_normal.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/bg_confirmcode_normal.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_edit.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_edit.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_default_logo.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_default_logo.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_holo_dark.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_bottom_holo_dark.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_search.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_search.png"
+    },
+    {
+        "merged": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_canlendar.png",
+        "source": "/Users/itsdon/Documents/workspace4studio/Zhaozhao2/app/src/main/res/drawable-xhdpi/icon_canlendar.png"
+    }
+]

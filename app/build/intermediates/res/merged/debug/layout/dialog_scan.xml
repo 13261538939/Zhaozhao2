@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="170dp"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+       android:textSize="17sp"
+        android:textColor="#000"
+        android:text="个人信息"
+        android:background="@color/grey"
+        />
+    <TextView
+        android:id="@+id/tv_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="姓名： 张三"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:textSize="15sp"
+    />
+    <TextView
+        android:id="@+id/tv_sex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="性别： 男"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        />
+    <TextView
+        android:id="@+id/tv_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="手机号： 13264787643"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        />
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d3d7d4"
+        android:layout_marginTop="10dp"
+        />
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+        <Button 
+            android:id="@+id/btn_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="取 消"                                   
+            android:background="@drawable/bg_button_dialog"
+             android:textColor="#6CB2EF"
+             android:textSize="20sp"
+            />
+        <View 
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#d3d7d4"
+            />
+         <Button 
+             android:id="@+id/btn_ok"
+              android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="确 定"
+           android:background="@drawable/bg_button_dialog"
+             android:textColor="#6CB2EF"
+             android:textSize="20sp"
+            />
+        
+    </LinearLayout>
+</LinearLayout>
