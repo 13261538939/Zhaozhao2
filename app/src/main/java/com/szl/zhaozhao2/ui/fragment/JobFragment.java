@@ -1,7 +1,6 @@
 package com.szl.zhaozhao2.ui.fragment;
 
 import android.os.Bundle;
-import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -179,7 +178,9 @@ public class JobFragment extends BaseFragment implements OnRefreshListener,View.
 
     @Override
     public void onRefresh() {
-         loadJobList();
+
+        // 加载网络数据--职位列表
+        loadJobList();
     }
 
 
