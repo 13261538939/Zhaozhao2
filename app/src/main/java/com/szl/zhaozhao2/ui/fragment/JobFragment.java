@@ -1,9 +1,11 @@
 package com.szl.zhaozhao2.ui.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -17,6 +19,7 @@ import com.szl.zhaozhao2.application.DApplication;
 import com.szl.zhaozhao2.log.LogPrinter;
 import com.szl.zhaozhao2.manager.request.RequestManager;
 import com.szl.zhaozhao2.model.JobModel;
+import com.szl.zhaozhao2.ui.activity.JobDetailActivity;
 import com.szl.zhaozhao2.util.CommonUtil;
 import com.szl.zhaozhao2.util.Contants;
 import com.szl.zhaozhao2.util.GsonHelper;
@@ -83,6 +86,14 @@ public class JobFragment extends BaseFragment implements OnRefreshListener,View.
         listView = ptrListView.getRefreshableView();
         adapter = new JobAdapter(getActivity(),datas);
         listView.setAdapter(adapter);
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent(getActivity(), JobDetailActivity.class);
+                intent.putExtra("jobId",datas.get(position-1).getJobId());
+                startActivity(intent);
+            }
+        });
 
         initJobTypeViewList();
 
@@ -179,7 +190,6 @@ public class JobFragment extends BaseFragment implements OnRefreshListener,View.
     @Override
     public void onRefresh() {
 
-        // 加载网络数据--职位列表
         loadJobList();
     }
 

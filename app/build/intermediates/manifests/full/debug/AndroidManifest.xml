@@ -50,8 +50,7 @@
         <activity
             android:name="com.szl.zhaozhao2.ui.activity.LoginActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.szl.zhaozhao2.ui.activity.MainActivity"
             android:label="@string/app_name"
@@ -89,8 +88,11 @@
         <activity
             android:name="com.szl.zhaozhao2.ui.activity.CompleteCompanyActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.szl.zhaozhao2.ui.activity.JobDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
