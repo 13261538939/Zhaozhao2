@@ -204,7 +204,8 @@
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="0dp"
                 android:lineSpacingExtra="4dp"
-                android:text="5.熟练掌握JSON数据解析\n6.对编程工程充满兴趣和激情\n7.富有专研精神" />
+                android:text="5.熟练掌握JSON数据解析\n6.对编程工程充满兴趣和激情\n7.富有专研精神"
+                android:visibility="gone"/>
 
             <View
                 android:id="@+id/view_line3"

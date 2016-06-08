@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+   >
+    <com.szl.zhaozhao2.view.TitlebarView
+        android:id="@+id/titlebar_position"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_titlebar" />
+
+    <RelativeLayout
+        android:id="@+id/rl_jobInfo_position"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_common_shape"
+        android:layout_below="@id/titlebar_position"
+        android:paddingBottom="10dp">
+
+        <TextView
+            android:id="@+id/tv_positionName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="11dp"
+            android:text="审计实习生"
+            android:textColor="@color/common"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/iv_traineeTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/icon_trainee_tag" />
+
+        <TextView
+            android:id="@+id/tv_salary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_positionName"
+            android:layout_below="@id/tv_positionName"
+            android:layout_marginTop="11dp"
+            android:drawableLeft="@drawable/icon_rmb"
+            android:drawablePadding="3dp"
+            android:text="4k-6k"
+            android:textColor="#f00" />
+
+        <TextView
+            android:id="@+id/tv_companyLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_positionName"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="11dp"
+            android:layout_toRightOf="@id/tv_salary"
+            android:drawableLeft="@drawable/icon_address"
+            android:drawablePadding="3dp"
+            android:text="海淀"
+            android:textColor="#f00" />
+
+        <TextView
+            android:id="@+id/tv_jobType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_positionName"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="11dp"
+            android:layout_toRightOf="@id/tv_companyLocation"
+            android:drawableLeft="@drawable/icon_job_type"
+            android:drawablePadding="3dp"
+            android:text="实习"
+            android:textColor="#f00" />
+
+        <TextView
+            android:id="@+id/tv_eduRequire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_positionName"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="11dp"
+            android:layout_toRightOf="@id/tv_jobType"
+            android:drawableLeft="@drawable/icon_edu_type"
+            android:drawablePadding="3dp"
+            android:text="大专"
+            android:textColor="#f00" />
+
+    </RelativeLayout>
+
+    <com.szl.zhaozhao2.view.pulltorefresh.PullToRefreshListView
+        android:id="@+id/ptr_position"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="@style/refreshListView"
+        android:divider="@color/transparent"
+        android:layout_below="@id/rl_jobInfo_position"
+        />
+
+
+</RelativeLayout>

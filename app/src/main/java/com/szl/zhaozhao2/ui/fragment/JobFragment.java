@@ -45,7 +45,7 @@ public class JobFragment extends BaseFragment implements OnRefreshListener,View.
     private ListView listView;
     private JobAdapter adapter;
     private List<JobModel> datas = new ArrayList<>();
-    private String jobType = "2"; //工作类型：1实习、2全职，3 兼职,4、项目
+    private String jobType = "1"; //工作类型：1实习、2全职，3 兼职,4、项目
     private TextView fullTime_tv;
     private TextView partTime_tv;
     private TextView trainee_tv;

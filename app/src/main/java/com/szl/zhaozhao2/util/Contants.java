@@ -80,7 +80,13 @@ public class Contants {
 	/** 添加单位信息*/
 	public static final String OfficeInfo = "/office/officeInfo";
 
-	/** 职位查询*/
+	/** 职位列表*/
 	public static final String JobList = "/job/jobList";
+
+	/** 职位详情*/
+	public static final String GetJobInfo = "/job/getJobInfo";
+
+	/** 查看某个职位的简历投递信息*/
+	public static final String  DeliveryList = "/job/deliveryList";
 
 }

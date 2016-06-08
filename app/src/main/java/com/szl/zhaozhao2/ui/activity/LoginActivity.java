@@ -76,13 +76,13 @@ public class LoginActivity extends BaseFragmentActivity implements View.OnClickL
 
      switch (v.getId()){
          case R.id.iv_login:
-             if(TextUtils.isEmpty(account_et.getText().toString()) || TextUtils.isEmpty(psd_et.getText().toString())){
-                 CommonUtil.showToast(this,"用户名或密码不能为空");
-             }else{
-                 login("1",account_et.getText().toString().trim(),psd_et.getText().toString().trim());
-             }
-//             Intent cintent = new Intent(this,CompleteCompanyActivity.class);
-//             startActivity(cintent);
+//             if(TextUtils.isEmpty(account_et.getText().toString()) || TextUtils.isEmpty(psd_et.getText().toString())){
+//                 CommonUtil.showToast(this,"用户名或密码不能为空");
+//             }else{
+//                 login("1",account_et.getText().toString().trim(),psd_et.getText().toString().trim());
+//             }
+             Intent cintent = new Intent(this,MainActivity.class);
+             startActivity(cintent);
              break;
          case R.id.tv_login_local:
              if(CommonUtil.isEmpty(DApplication.imei)){

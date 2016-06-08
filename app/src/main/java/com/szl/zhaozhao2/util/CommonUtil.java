@@ -1135,4 +1135,29 @@ public class CommonUtil {
 		}
 		return statusHeight;
 	}
+
+	/**
+	 *  获得job 类型
+	 * @param type
+	 * @return
+     */
+	public static String getJobType(int type){
+		//1实习、2全职，3 兼职,4、项目
+		String jobType = "";
+		switch (type){
+			case 1:
+				jobType = "实习";
+				break;
+			case 2:
+				jobType = "全职";
+				break;
+			case 3:
+				jobType = "兼职";
+				break;
+			case 4:
+				jobType = "项目";
+				break;
+		}
+		return jobType;
+	}
 }
