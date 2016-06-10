@@ -64,7 +64,7 @@ public class MainActivity extends BaseFragmentActivity {
 			 // 将Tab按钮添加进Tab选项卡中
 			 fragmentTabHost.addTab(tabSpec, fragmentArray[i], null);
 			 fragmentTabHost.setTag(i);
-
+             // 测试22
 		 }
 
 	 }
