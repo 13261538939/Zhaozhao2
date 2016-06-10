@@ -89,4 +89,7 @@ public class Contants {
 	/** 查看某个职位的简历投递信息*/
 	public static final String  DeliveryList = "/job/deliveryList";
 
+	/** 职位收藏*/
+	public static final String JobFavo = "/job/jobFavo";
+
 }

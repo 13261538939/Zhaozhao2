@@ -19,6 +19,7 @@ import com.szl.zhaozhao2.manager.request.RequestManager;
 import com.szl.zhaozhao2.model.User;
 import com.szl.zhaozhao2.util.CommonUtil;
 import com.szl.zhaozhao2.util.Contants;
+import com.szl.zhaozhao2.util.DialogUtil;
 import com.szl.zhaozhao2.util.GsonHelper;
 import com.szl.zhaozhao2.view.RoundImageView;
 import com.szl.zhaozhao2.view.TitlebarView;
@@ -78,6 +79,7 @@ public class JobDetailActivity extends BaseFragmentActivity implements View.OnCl
         titlebarView = (TitlebarView) findViewById(R.id.titlebar_jobDetail);
         titlebarView.setTitleText("职位信息");
         titlebarView.setRightText("更多");
+        titlebarView.getRightButton().setOnClickListener(this);
         titlebarView.getBackView().setOnClickListener(this);
         // job info
         positionName_tv = (TextView) findViewById(R.id.tv_positionName);
@@ -125,6 +127,21 @@ public class JobDetailActivity extends BaseFragmentActivity implements View.OnCl
                  Intent intent = new Intent(this,PositionActivity.class);
                    intent.putExtra("jobId",jobId);
                 startActivity(intent);
+                break;
+            case R.id.btn_right_titlebar:
+                DialogUtil.showMoreDialog(this, new DialogUtil.OnMoreDialogItemClickListener() {
+                    @Override
+                    public void onCollectButtonClicked(View v) {
+                        DialogUtil.dimissMoreDialog();
+                        collectPositon();
+                    }
+
+                    @Override
+                    public void onShareButtonClicked(View v) {
+                        CommonUtil.showToast(JobDetailActivity.this,"此功能待开发");
+                        DialogUtil.dimissMoreDialog();
+                    }
+                });
                 break;
         }
     }
@@ -177,7 +194,37 @@ public class JobDetailActivity extends BaseFragmentActivity implements View.OnCl
 
     }
 
+  public void collectPositon(){
+      JSONObject parameters = new JSONObject();
+      try {
+          parameters.put("jobId",jobId);
+          parameters.put("smId",DApplication.smId);
+          parameters.put("mId",DApplication.user.mId);
+      } catch (JSONException e) {
+          e.printStackTrace();
+      }
 
+      RequestManager.getInstance().getData(Request.Method.POST, parameters, new Response.Listener<JSONObject>() {
+          @Override
+          public void onResponse(JSONObject jsonObject) {
+              JSONObject meta = jsonObject.optJSONObject("meta");
+              String result = meta.optString("s");
+              String message = meta.optString("m");
+              if(result.equals("1")){
+                  CommonUtil.showToast(JobDetailActivity.this,"收藏成功");
+              }else{
+                  CommonUtil.showToast(JobDetailActivity.this,message);
+              }
+
+          }
+      }, new Response.ErrorListener() {
+          @Override
+          public void onErrorResponse(VolleyError volleyError) {
+              CommonUtil.showToast(JobDetailActivity.this,
+                      getString(R.string.no_connect));
+          }
+      }, Contants.JobFavo,TAG);
+  }
 
 
 }

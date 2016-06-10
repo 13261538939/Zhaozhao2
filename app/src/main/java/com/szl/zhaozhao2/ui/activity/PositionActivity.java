@@ -9,11 +9,13 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.szl.zhaozhao2.R;
+import com.szl.zhaozhao2.adapter.ResumeListAdapter;
 import com.szl.zhaozhao2.application.DApplication;
 import com.szl.zhaozhao2.log.LogPrinter;
 import com.szl.zhaozhao2.manager.request.RequestManager;
 import com.szl.zhaozhao2.util.CommonUtil;
 import com.szl.zhaozhao2.util.Contants;
+import com.szl.zhaozhao2.util.DialogUtil;
 import com.szl.zhaozhao2.view.TitlebarView;
 import com.szl.zhaozhao2.view.pulltorefresh.PullToRefreshListView;
 
@@ -27,6 +29,7 @@ public class PositionActivity extends BaseFragmentActivity implements View.OnCli
     private PullToRefreshListView ptrListView;
     private ListView listView;
     private String jobId;
+    private ResumeListAdapter adapter;
 
 
     @Override
@@ -45,7 +48,14 @@ public class PositionActivity extends BaseFragmentActivity implements View.OnCli
         titlebarView = (TitlebarView) findViewById(R.id.titlebar_position);
         titlebarView.getBackView().setOnClickListener(this);
         titlebarView.setRightText("更多");
+        titlebarView.getRightButton().setOnClickListener(this);
         titlebarView.setTitleText("职位信息");
+
+        ptrListView = (PullToRefreshListView) findViewById(R.id.ptr_position);
+        listView = ptrListView.getRefreshableView();
+        adapter = new ResumeListAdapter(this);
+        listView.setAdapter(adapter);
+
 
     }
 
@@ -55,6 +65,21 @@ public class PositionActivity extends BaseFragmentActivity implements View.OnCli
         switch (v.getId()){
             case R.id.iv_back_titlebar:
                 finish();
+                break;
+            case R.id.btn_right_titlebar:
+                DialogUtil.showMoreDialog(this, new DialogUtil.OnMoreDialogItemClickListener() {
+                    @Override
+                    public void onCollectButtonClicked(View v) {
+                        CommonUtil.showToast(PositionActivity.this,"收藏");
+                        DialogUtil.dimissMoreDialog();
+                    }
+
+                    @Override
+                    public void onShareButtonClicked(View v) {
+                        CommonUtil.showToast(PositionActivity.this,"转发");
+                        DialogUtil.dimissMoreDialog();
+                    }
+                });
                 break;
 
         }
