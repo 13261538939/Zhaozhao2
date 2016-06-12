@@ -16,4 +16,5 @@
     <color name="pull_down_text_color">#a3a7ac</color>
 
     <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
 </resources>

@@ -120,7 +120,7 @@ public class RegisterForOrdinaryActivity extends BaseFragmentActivity implements
                 LogPrinter.v("Don","====="+jsonObject.toString());
                 if(result.equals("1")){
                     CommonUtil.showToast(RegisterForOrdinaryActivity.this,"验证码获取成功");
-                    ckId = jsonObject.optString("ckid");
+                    ckId = jsonObject.optString("ckId");
                 }
                 CommonUtil.showToast(RegisterForOrdinaryActivity.this,message);
             }

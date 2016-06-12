@@ -108,6 +108,7 @@ public class JobDetailActivity extends BaseFragmentActivity implements View.OnCl
 
         showAllDesc_tv.setOnClickListener(this);
         findViewById(R.id.rl_jobInfo_jobDetail).setOnClickListener(this);
+        findViewById(R.id.rl_applyerInfo).setOnClickListener(this);
 
     }
 
@@ -142,6 +143,10 @@ public class JobDetailActivity extends BaseFragmentActivity implements View.OnCl
                         DialogUtil.dimissMoreDialog();
                     }
                 });
+                break;
+            case R.id.rl_applyerInfo:
+                   Intent mintent = new Intent(this,CompanyInfoActivity.class);
+                startActivity(mintent);
                 break;
         }
     }
