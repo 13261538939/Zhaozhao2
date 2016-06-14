@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.android.volley.Request;
@@ -77,7 +78,7 @@ public class JobFragment extends BaseFragment implements OnRefreshListener,View.
         titlebarView.getBackView().setImageResource(R.drawable.icon_search_white);
         titlebarView.showIcon2View();
         titlebarView.getIcon2View().setImageResource(R.drawable.icon_more);
-        LinearLayout.LayoutParams params = (LinearLayout.LayoutParams) titlebarView.getIcon2View().getLayoutParams();
+        RelativeLayout.LayoutParams params = (RelativeLayout.LayoutParams) titlebarView.getIcon2View().getLayoutParams();
         params.setMargins(0,0,30,0);
 
         ptrListView = (PullToRefreshListView) view.findViewById(R.id.ptr_job);

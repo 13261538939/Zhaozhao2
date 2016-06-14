@@ -19,6 +19,7 @@ public class TitlebarView extends LinearLayout {
     private TextView title_tv;
     private Button right_btn;
 
+
     public TitlebarView(Context context, AttributeSet attrs) {
         super(context, attrs, 0);
         init(context);
@@ -29,7 +30,7 @@ public class TitlebarView extends LinearLayout {
         init(context);
     }
 
-    private void init(Context context) {
+    private void init(final Context context) {
         View view = LinearLayout
                 .inflate(context, R.layout.titlebar, null);
         back_iv = (ImageView) view.findViewById(R.id.iv_back_titlebar);
@@ -37,6 +38,8 @@ public class TitlebarView extends LinearLayout {
        right_btn = (Button) view.findViewById(R.id.btn_right_titlebar);
         icon1_iv = (ImageView) view.findViewById(R.id.iv_icon1_titlebar);
         icon2_iv = (ImageView) view.findViewById(R.id.iv_icon2_titlebar);
+
+
         addView(view);
     }
 
@@ -103,4 +106,5 @@ public class TitlebarView extends LinearLayout {
     public void showIcon2View() {
         icon2_iv.setVisibility(View.VISIBLE);
     }
+
 }

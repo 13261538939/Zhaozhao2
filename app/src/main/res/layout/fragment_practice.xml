@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-<TextView
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:text="实习圈"
-    android:gravity="center"
+    android:background="@color/background_color"
+    >
+<com.szl.zhaozhao2.view.TitlebarView
+    android:id="@+id/titlebar_practice"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+</com.szl.zhaozhao2.view.TitlebarView>
+<ImageView
+    android:id="@+id/iv_bg_practice"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:src="@drawable/bg_practice"
+    android:scaleType="fitXY"
+    android:layout_below="@+id/titlebar_practice"
     />
-</LinearLayout>
+    <ImageView
+        android:id="@+id/iv_head_practice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_avatar"
+        android:layout_below="@+id/iv_bg_practice"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="-35dp"
+        android:layout_marginRight="15dp"
+        />
+    <ListView
+        android:id="@+id/list_practice"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/iv_head_practice"
+        android:layout_marginTop="15dp"
+        android:divider="@null"
+        android:scrollbars="none"
+        >
+    </ListView>
+    <TextView
+        android:id="@+id/tv_empty_practice"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/iv_head_practice"
+        android:textColor="#550000ff"
+        android:textSize="25sp"
+        android:text="暂无数据"
+        android:gravity="center"
+        />
+</RelativeLayout>

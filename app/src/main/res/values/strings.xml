@@ -28,4 +28,7 @@
     <string name="release_update_down_hiddendate">松开可以查看详情</string>
     <string name="update_time">更新于</string>
 
+    <!-- fragment tiele -->
+    <string name="title_practice">实习圈</string>
+    <string name="tv_content_practice">在线计算器是一个网页计算器，基础的网页计算器，为用户提供加减乘除。。。。。</string>
 </resources>

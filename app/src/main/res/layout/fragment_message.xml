@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-<TextView
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+    >
+    <com.szl.zhaozhao2.view.TitlebarView
+        android:id="@+id/titleBar_message"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+    </com.szl.zhaozhao2.view.TitlebarView>
+<ListView
+    android:id="@+id/list_message"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:text="消息"
-    android:gravity="center"
-    />
+    android:scrollbars="none"
+    >
+</ListView>
+    <TextView
+        android:id="@+id/tv_empty_message"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="暂无通知消息"
+        android:gravity="center"
+        android:textColor="#550000ff"
+        android:textSize="25sp"
+        />
 </LinearLayout>

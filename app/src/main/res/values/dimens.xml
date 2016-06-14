@@ -25,4 +25,18 @@
 
     <!-- PullDownView -->
     <dimen name="updatebar_height">62dp</dimen>
+
+    <!-- 字体大小-->
+    <dimen name="tv_12">12sp</dimen>
+    <dimen name="tv_13">13sp</dimen>
+    <dimen name="tv_15">15sp</dimen>
+    <dimen name="tv_18">18sp</dimen>
+    <dimen name="tv_20">20sp</dimen>
+    <!-- margin-->
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <!-- padding-->
+    <dimen name="padding_30">30dp</dimen>
 </resources>
